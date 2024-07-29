@@ -1,0 +1,6 @@
+{
+	"eventName": "matta",
+	"logo": "./mtb-logo.png",
+	"places": ["Vietnam", "Thailand", "Kashmir", "Kundasang", "Mabul", "Balkan", "Jepun", "Taiwan", "Turki", "Europe", "Korea", "China"],
+	"saveLeadApi": "http://clickapp.test/api/event/leads"
+}
